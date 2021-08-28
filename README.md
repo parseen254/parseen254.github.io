@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=davidparseen)
 
 
-## I'm a Husband, Father, Developer, Math geek, and Mentor!!
+## I'm a Blockchain Developer, Math geek, and Mentor!!
 
 - 🔭 I’m currently working on DApp development with Solidity
 - 🌱 I’m currently learning how to effectively and efficiently do audits on smart contracts
