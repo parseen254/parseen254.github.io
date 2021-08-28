@@ -1,7 +1,7 @@
 ### [ Hi there, I'm David ][ website ] 👋
 
-[![Website](https://img.shields.io/website?label=davidparseen.com&style=for-the-badge&url=https%3A%2F%2Fwww.davidparseen.com)](https://www.davidparseen.com){:target="_blank" rel="noopener"}
-[![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=davidparseen){:target="_blank" rel="noopener"}
+[![Website](https://img.shields.io/website?label=davidparseen.com&style=for-the-badge&url=https%3A%2F%2Fwww.davidparseen.com)](https://www.davidparseen.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=davidparseen)
 
 
 ## I'm a Husband, Father, Developer, Math geek, and Mentor!!
@@ -15,10 +15,10 @@
 
 ### 📫 How to reach me:
 
-[<img align="left" alt="www.davidparseen.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="_blank" rel="noopener"}
-[<img align="left" alt="David Parseen | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/twitter.svg" />][twitter]{:target="_blank" rel="noopener"}
-[<img align="left" alt="David Parseen | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/linkedin.svg" />][linkedin]{:target="_blank" rel="noopener"}
-[<img align="left" alt="David Parseen | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/instagram.svg" />][instagram]{:target="_blank" rel="noopener"}
+[<img align="left" alt="www.davidparseen.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="David Parseen | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="David Parseen | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David Parseen | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
