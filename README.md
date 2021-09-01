@@ -7,7 +7,7 @@
 ## I'm a Blockchain Developer, Math geek, and Mentor!!
 
 - 🔭 I’m currently working on DApp development with Solidity
-- 🌱 I’m currently learning how to effectively and efficiently do audits on smart contracts
+- 🌱 I’m currently learning how to do extensive audits on smart contracts
 - 👯 I’m looking to collaborate on opensource projects working on decentralized storage and decentralized computing
 - 💬 Ask me about anything related to tech or theoretical physics.
 - 😄 Pronouns: He / Him
