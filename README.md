@@ -29,7 +29,7 @@
 <img align="left" alt="React Js" width="32" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
 <img align="left" alt="Next Js" width="32" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
 <img align="left" alt="Node Js" width="64" src="/icons/nodejs.svg" />
-<img align="left" alt="Strapi" width="96" src="https://strapi.io/assets/strapi-logo-dark.svg" />
+<img align="left" alt="Strapi" width="96" src="/icons/strapi.svg" />
 <img align="left" alt="Django" width="32" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 <img align="left" alt="Pandas" width="96" src="/icons/pandas.svg" />
 <img align="left" alt="Airflow" width="32" src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" />
