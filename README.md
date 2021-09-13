@@ -39,6 +39,6 @@
 
 [website]: https://www.davidparseen.com
 [twitter]: https://twitter.com/davidparseen
-[linkedin]: https://www.linkedin.com/in/david-parseen-maitoyo/
+[linkedin]: https://www.linkedin.com/in/davidparseen/
 [instagram]: https://www.instagram.com/davidparseen
 
