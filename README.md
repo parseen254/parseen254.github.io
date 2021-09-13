@@ -15,23 +15,23 @@
 
 ### 📫 How to reach me:
 
-[<img align="left" alt="www.davidparseen.com" width="32px" src="/globe.svg" />][website]
-[<img align="left" alt="David Parseen | Twitter" width="32px" src="/twitter.svg" />][twitter]
-[<img align="left" alt="David Parseen | LinkedIn" width="32px" src="/linkedin.svg" />][linkedin]
-[<img align="left" alt="David Parseen | Instagram" width="32px" src="/instagram.svg" />][instagram]
+[<img align="left" alt="www.davidparseen.com" width="32px" src="/icons/globe.svg" />][website]
+[<img align="left" alt="David Parseen | Twitter" width="32px" src="/icons/twitter.svg" />][twitter]
+[<img align="left" alt="David Parseen | LinkedIn" width="32px" src="/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David Parseen | Instagram" width="32px" src="/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
 
 ### Favourite Languages and Frameworks:
 
-<img align="left" alt="Tailwind CSS" width="140" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" />
+<img align="left" alt="Tailwind CSS" width="140" src="/icons/tailwind.svg" />
 <img align="left" alt="React Js" width="32" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
 <img align="left" alt="Next Js" width="32" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
-<img align="left" alt="Node Js" width="64" src="https://nodejs.org/static/images/logo-light.svg" />
+<img align="left" alt="Node Js" width="64" src="/icons/nodejs.svg" />
 <img align="left" alt="Strapi" width="96" src="https://strapi.io/assets/strapi-logo-dark.svg" />
 <img align="left" alt="Django" width="32" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="Pandas" width="96" src="https://pandas.pydata.org/static/img/pandas.svg" />
+<img align="left" alt="Pandas" width="96" src="/icons/pandas.svg" />
 <img align="left" alt="Airflow" width="32" src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" />
 <img align="left" alt="Typescript" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Python" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
