@@ -4,38 +4,29 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=davidparseen)
 
 
-## I'm a Blockchain Developer, Math Geek, Fullstack Developer!!
-
-- 🔭 I’m currently working on DApp development with Solidity
-- 🌱 I’m currently learning how to do extensive audits on smart contracts
-- 👯 I’m looking to collaborate on opensource projects working on decentralized storage and decentralized computing
-- 💬 Ask me about anything related to tech or theoretical physics.
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Most people assume I am way older than I actually am.
+## I am a seasoned developer and system analyst.
+- With a focus on JavaScript full-stack development.
+- I'm comfortable working with a variety of languages and platforms.
+- I've recently dedicated myself to developing full-stack Blockchain applications in React.js, Next.js, Node.js, Express.js, Subgraph, and MongoDB.
+- I also have some Solidity and Hardhat experience and a degree in applied mathematics.
 
 ### 📫 How to reach me:
 
-[<img align="left" alt="www.davidparseen.com" width="32px" src="/icons/globe.svg" />][website]
-[<img align="left" alt="David Parseen | Twitter" width="32px" src="/icons/twitter.svg" />][twitter]
-[<img align="left" alt="David Parseen | LinkedIn" width="32px" src="/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="David Parseen | Instagram" width="32px" src="/icons/instagram.svg" />][instagram]
+[<img align="left" alt="www.davidparseen.com" width="64" height="64" src="/icons/globe.svg" />][website]
+[<img align="left" alt="David Parseen | Twitter" width="64" height="64" src="/icons/twitter.svg" />][twitter]
+[<img align="left" alt="David Parseen | LinkedIn" width="64" height="64" src="/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David Parseen | Instagram" width="64" height="64" src="/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
 
 ### Favourite Languages and Frameworks:
 
-<img align="left" alt="Tailwind CSS" width="140" src="/icons/tailwind.svg" />
-<img align="left" alt="React Js" width="32" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
-<img align="left" alt="Next Js" width="32" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
-<img align="left" alt="Node Js" width="64" src="/icons/nodejs.svg" />
-<img align="left" alt="Strapi" width="96" src="/icons/strapi.svg" />
-<img align="left" alt="Django" width="32" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="Pandas" width="96" src="/icons/pandas.svg" />
-<img align="left" alt="Airflow" width="32" src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" />
-<img align="left" alt="Typescript" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Python" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
+<img align="left" alt="React Js" width="64" height="64" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
+<img align="left" alt="Next Js" width="64" height="64" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
+<img align="left" alt="Node Js" width="64" height="64" src="/icons/nodejs.svg" />
+<img align="left" alt="MongoDB" width="64" height="64" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" />
+<img align="left" alt="Python" width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [website]: https://www.davidparseen.com
 [twitter]: https://twitter.com/davidparseen
