@@ -11,8 +11,8 @@
 - I also have some Solidity and Hardhat experience and a degree in applied mathematics.
 <br/>
 <br/>
+
 ### 📫 How to reach me :
-<br/>
 
 [<img align="left" alt="www.davidparseen.com" width="48" height="48" src="./icons/globe.svg" />][website]
 [<img align="left" alt="David Parseen | Twitter" width="48" height="48" src="./icons/twitter.svg" />][twitter]
@@ -21,8 +21,8 @@
 
 <br/>
 <br/>
+
 ### ⭐ Favourite Tools :
-<br/>
 
 <img align="left" alt="React Js" width="48" height="48" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
 <img align="left" alt="Next Js" width="48" height="48" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
