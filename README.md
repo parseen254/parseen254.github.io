@@ -15,12 +15,9 @@
 <br/>
 
 [<img align="left" alt="www.davidparseen.com" width="48" height="48" src="./icons/globe.svg" />][website]
-
 [<img align="left" alt="David Parseen | Twitter" width="48" height="48" src="./icons/twitter.svg" />][twitter]
-
 [<img align="left" alt="David Parseen | LinkedIn" width="48" height="48" src="./icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="David Parseen | Instagram" width="64" height="64" src="./icons/instagram.svg" />][instagram]
+[<img align="left" alt="David Parseen | Instagram" width="48" height="48" src="./icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -29,13 +26,9 @@
 <br/>
 
 <img align="left" alt="React Js" width="48" height="48" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
-
 <img align="left" alt="Next Js" width="48" height="48" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
-
 <img align="left" alt="Node Js" width="48" height="48" src="./icons/nodejs.svg" />
-
 <img align="left" alt="MongoDB" width="48" height="48" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" />
-
 <img align="left" alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [website]: https://www.davidparseen.com
