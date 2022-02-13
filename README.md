@@ -1,7 +1,7 @@
 ### [ Hi there, I'm David ][ website ] 👋
 
 [![Website](https://img.shields.io/website?label=davidparseen.com&style=for-the-badge&url=https%3A%2F%2Fwww.davidparseen.com)](https://www.davidparseen.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=davidparseen)
+[![Twitter Follow](https://img.shields.io/twitter/follow/davidparseen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidparseen&screen_name=smplywb3)
 
 
 ## I am a seasoned developer and system analyst;
@@ -21,7 +21,6 @@
 
 <br/>
 <br/>
-
 ### ⭐ Favourite Tools :
 <br/>
 
@@ -32,7 +31,7 @@
 <img align="left" alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [website]: https://www.davidparseen.com
-[twitter]: https://twitter.com/davidparseen
+[twitter]: https://twitter.com/smplywb3
 [linkedin]: https://www.linkedin.com/in/davidparseen/
 [instagram]: https://www.instagram.com/davidparseen
 
