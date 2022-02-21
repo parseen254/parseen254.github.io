@@ -17,7 +17,6 @@
 [<img align="left" alt="www.davidparseen.com" width="48" height="48" src="./icons/globe.svg" />][website]
 [<img align="left" alt="David Parseen | Twitter" width="48" height="48" src="./icons/twitter.svg" />][twitter]
 [<img align="left" alt="David Parseen | LinkedIn" width="48" height="48" src="./icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="David Parseen | Instagram" width="48" height="48" src="./icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -32,5 +31,4 @@
 [website]: https://www.davidparseen.com
 [twitter]: https://twitter.com/smplywb3
 [linkedin]: https://www.linkedin.com/in/davidparseen/
-[instagram]: https://www.instagram.com/davidparseen
 
