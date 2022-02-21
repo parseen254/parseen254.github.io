@@ -24,11 +24,10 @@
 
 ### ⭐ Favourite Tools :
 
-<img align="left" alt="React Js" width="48" height="48" src="https://raw.githubusercontent.com/facebook/react/cae635054e17a6f107a39d328649137b83f25972/fixtures/dom/public/react-logo.svg" />
-<img align="left" alt="Next Js" width="48" height="48" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
-<img align="left" alt="Node Js" width="48" height="48" src="./icons/nodejs.svg" />
-<img align="left" alt="MongoDB" width="48" height="48" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" />
-<img align="left" alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Solidity" width="48" height="48" src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+<img align="left" alt="Typescript" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />
+
+<img align="left" alt="Rust" height="48" src="https://user-images.githubusercontent.com/19896027/155019880-f5d85bc8-e5a6-4905-bdbe-fe1c10465279.jpg" />
 
 [website]: https://www.davidparseen.com
 [twitter]: https://twitter.com/smplywb3
