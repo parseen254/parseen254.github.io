@@ -1,30 +1,122 @@
-### [ Hi there, I'm David ][ website ] 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=davidparseen&show_icons=true)
 
-## I am a seasoned developer and system analyst;
-- With a focus on Fullstack Web development.
-- I'm comfortable working with a variety of languages and platforms.
-- I've recently dedicated myself to developing full-stack Blockchain applications in React.js, Next.js, Node.js, Express.js, Subgraph, and MongoDB.
-- I also have some Solidity and Hardhat experience and a degree in applied mathematics.
-<br/>
-<br/>
+- 🔭 I’m currently working as a Web3 builder at @OgenaLabs
+- 🌱 I’m currently learning Rust
+- 🎓 I’m currently studying Advanced Smart Contract Security at Chainshot (Chainshot + AE)
+- 🪶 Blockchain Developer
+- 📫 Reach me on Instagram `(davidparseen)` or Twitter `(@davidparseen)`
+- 👨‍💻 You can contact me on `hello@davidparseen.com`
 
-### 📫 How to reach me :
 
-[<img align="left" alt="www.davidparseen.com" width="48" height="48" src="./icons/globe.svg" />][website]
-[<img align="left" alt="David Parseen | Twitter" width="48" height="48" src="./icons/twitter.svg" />][twitter]
-[<img align="left" alt="David Parseen | LinkedIn" width="48" height="48" src="./icons/linkedin.svg" />][linkedin]
+<h3 align="justify">Languages</h3>
+<table align="justify">
+  <tr>
+    <td align="left" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png" width="48" height="48" alt="html5" />
+      <br>Typescript
+    </td>
+    <td align="left" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="left" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/160px-Solidity_logo.svg.png" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+  </tr>
+</table>
 
-<br/>
-<br/>
 
-### ⭐ Favourite Tools :
+<h3 align="justify">Databases</h3>
+<table align="justify">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+</table>
 
-<img align="left" alt="Solidity" width="48" height="48" src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" />
-<img align="left" alt="Typescript" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />
+<h3 align="justify">Framework & Tools</h3>
+<table align="justify">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="48" alt="vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" alt="react" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="48" alt="nuxt" />
+      <br>Nuxt
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="48" alt="stelve" />
+      <br>Stelve
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://seeklogo.com/images/S/semantic-ui-logo-AFDC4C7E31-seeklogo.com.png" height="48" alt="semanticui" />
+      <br>SemanticUI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" height="48" alt="laravel" />
+      <br>Nextjs
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="expressjs" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
+      <br>Webpack
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-<img align="left" alt="Rust" height="48" src="https://user-images.githubusercontent.com/19896027/155019880-f5d85bc8-e5a6-4905-bdbe-fe1c10465279.jpg" />
-
-[website]: https://www.davidparseen.com
-[twitter]: https://twitter.com/smplywb3
-[linkedin]: https://www.linkedin.com/in/davidparseen/
 
