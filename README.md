@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=ogena-eth&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ogena-eth&show_icons=true&count_private=true)
 
 - 🔭 I’m currently a Web3 builder at @OgenaLabs
 - 🌱 I’m currently learning Rust
