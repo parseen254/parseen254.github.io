@@ -1,11 +1,11 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=davidparseen&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ogena-eth&show_icons=true)
 
-- 🔭 I’m currently working as a Web3 builder at @OgenaLabs
+- 🔭 I’m currently a Web3 builder at @OgenaLabs
 - 🌱 I’m currently learning Rust
 - 🎓 I’m currently studying Advanced Smart Contract Security at Chainshot (Chainshot + AE)
 - 🪶 Blockchain Developer
-- 📫 Reach me on Instagram `(davidparseen)` or Twitter `(@davidparseen)`
-- 👨‍💻 You can contact me on `hello@davidparseen.com`
+- 📫 Reach me on Twitter `(@ogena_eth)`
+- 👨‍💻 You can contact me on `hello@ogena.io`
 
 
 <h3 align="justify">Languages</h3>
