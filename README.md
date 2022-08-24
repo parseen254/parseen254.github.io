@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently a Web3 builder at @OgenaLabs
+- 🔭 I’m currently a Web3 creative at @OgenaLabs community
 - 🌱 I’m currently learning Rust
 - 🎓 I’m currently studying Advanced Smart Contract Security at Chainshot (Chainshot + AE)
 - 🪶 Blockchain Developer
