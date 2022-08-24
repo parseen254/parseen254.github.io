@@ -1,4 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=parseen-dev&show_icons=true&count_private=true&hide=stars,prs,contribs)
 
 - 🔭 I’m currently a Web3 builder at @OgenaLabs
 - 🌱 I’m currently learning Rust
