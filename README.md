@@ -6,33 +6,22 @@
 - 📫 Reach me on Twitter `(@parseen_dev)`
 - 👨‍💻 You can contact me on `hello@parseen.dev`
 
-
-<h3 align="justify">Languages</h3>
-<table align="justify">
+<table >
+<h3 align="left">Languages</h3>
   <tr>
     <td align="left" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png" width="48" height="48" alt="html5" />
       <br>Typescript
     </td>
     <td align="left" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="left" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/160px-Solidity_logo.svg.png" width="48" height="48" alt="Solidity" />
+      <img src="https://soliditylang.org/images/SolBlueGradient.png" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
   </tr>
 </table>
-
-
-<h3 align="justify">Databases</h3>
-<table align="justify">
+<table >
+<h3 align="left">Databases</h3>
   <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
@@ -47,46 +36,29 @@
     </td>
   </tr>
 </table>
-
-<h3 align="justify">Framework & Tools</h3>
-<table align="justify">
+<table>
+<h3 align="left">Framework & Tools</h3>
   <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="48" alt="vue" />
-      <br>Vue
-    </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" alt="react" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="48" alt="nuxt" />
-      <br>Nuxt
+      <img src="https://redwoodjs.com/images/diecut.svg" height="48" alt="redwood" />
+      <br>Redwood
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="48" alt="stelve" />
-      <br>Stelve
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <img src="https://nextjs.org/static/favicon/android-chrome-512x512.png" height="48" alt="laravel" />
+      <br>Nextjs
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="48" alt="tailwind" />
-      <br>Tailwind
+      <img src="https://tailwindcss.com/favicons/android-chrome-256x256.png?v=3" height="48" alt="tailwind" />
+      <br>TailwindCss
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/S/semantic-ui-logo-AFDC4C7E31-seeklogo.com.png" height="48" alt="semanticui" />
-      <br>SemanticUI
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png" height="48" alt="laravel" />
-      <br>Nextjs
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="expressjs" />
+      <img src="https://github.com/expressjs/expressjs.com/raw/gh-pages/images/favicon.png" width="48" height="48" alt="expressjs" />
       <br>ExpressJS
     </td>
     <td align="center" width="96">
@@ -96,20 +68,8 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="postman" />
-      <br>Postman
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
@@ -117,5 +77,4 @@
     </td>
   </tr>
 </table>
-
 
