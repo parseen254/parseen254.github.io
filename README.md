@@ -31,8 +31,8 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
-      <br>Firebase
+      <img src="https://redis.io/images/favicons/android-chrome-192x192.png" width="48" height="48" alt="firebase" />
+      <br>Redis
     </td>
   </tr>
 </table>
