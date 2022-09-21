@@ -6,39 +6,20 @@
 - 📫 Reach me on Twitter `(@parseen_dev)`
 - 👨‍💻 You can contact me on `hello@parseen.dev`
 
-<table >
-<h3 align="left">Languages</h3>
-  <tr>
-    <td align="left" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png" width="48" height="48" alt="html5" />
-      <br>Typescript
-    </td>
-    <td align="left" width="96">
-      <img src="https://soliditylang.org/images/SolBlueGradient.png" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
-  </tr>
-</table>
-<table >
-<h3 align="left">Databases</h3>
-  <tr>
-    <td align="center" width="96">
+<table>
+<th>Databases</th>
+<th/>
+<th/>
+<th>Frameworks & Tools</th>
+<th/>
+<th/>
+<tr>
+  <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://redis.io/images/favicons/android-chrome-192x192.png" width="48" height="48" alt="firebase" />
-      <br>Redis
-    </td>
-  </tr>
-</table>
-<table>
-<h3 align="left">Framework & Tools</h3>
-  <tr>
+    <td/>
+    <td/>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" alt="react" />
       <br>React
@@ -51,9 +32,15 @@
       <img src="https://nextjs.org/static/favicon/android-chrome-512x512.png" height="48" alt="laravel" />
       <br>Nextjs
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+ </td>
+ <td/>
+ <td/>
+ <td align="center" width="96">
       <img src="https://tailwindcss.com/favicons/android-chrome-256x256.png?v=3" height="48" alt="tailwind" />
       <br>TailwindCss
     </td>
@@ -65,8 +52,14 @@
       <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
       <br>Webpack
     </td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
+ <td align="center" width="96">
+      <img src="https://redis.io/images/favicons/android-chrome-192x192.png" width="48" height="48" alt="firebase" />
+      <br>Redis
+    </td>
+    <td/>
+    <td/>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -75,6 +68,6 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
       <br>Docker
     </td>
-  </tr>
+ </tr>
 </table>
 
