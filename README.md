@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently a Web3 creative at @OgenaLabs community
-- 🌱 I’m currently learning Rust
-- 🎓 I’m currently studying Advanced Smart Contract Security at Chainshot (Chainshot + AE)
-- 🪶 Blockchain Developer
+- 🔭 I’m currently a Web3 Security researcher at @OgenaLabs community
+- 🌱 I’m currently writing blogposts and tutorials @ [https://blockchainsecurity.fyi](https://blockchainsecurity.fyi)
+- 🪶 Blockchain Security Engineer
 - 📫 Reach me on Twitter `(@parseen_dev)`
+- 📫 Reach me on Twitter `(@bs_fyi)`
 - 👨‍💻 You can contact me on `hello@parseen.dev`
 
 <table>
