@@ -2,8 +2,8 @@
 - 🔭 I’m currently a Web3 Security researcher at @OgenaLabs community
 - 🌱 I’m currently writing blogposts and tutorials @ [https://blockchainsecurity.fyi](https://blockchainsecurity.fyi)
 - 🪶 Blockchain Security Engineer
-- 📫 Reach me on Twitter `(@parseen_dev)`
-- 📫 Reach me on Twitter `(@bs_fyi)`
+- 📫 Reach me on Twitter [`(@parseen_dev)`](https://twitter.com/parseen_dev)
+- 📫 Reach me on Twitter [`(@bs_fyi)`](https://twitter.com/bs_fyi)
 - 👨‍💻 You can contact me on `hello@parseen.dev`
 
 <table>
