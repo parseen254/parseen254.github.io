@@ -1,73 +1,25 @@
+<h1 align="center">Hello 👋, I'm David Parseen</h1>
+<h3 align="center">A  senior software engineer from Kenya</h3>
+<img align="right" alt="Coding" width="300" src="https://parseen.dev/image.jpeg">
 
-- 🔭 I’m currently a Web3 Security researcher at @OgenaLabs community
-- 🌱 I’m currently writing blogposts and tutorials @ [https://blockchainsecurity.fyi](https://blockchainsecurity.fyi)
-- 🪶 Blockchain Security Engineer
-- 📫 Reach me on Twitter [`(@parseen_dev)`](https://twitter.com/parseen_dev)
-- 📫 Reach me on Twitter [`(@bs_fyi)`](https://twitter.com/bs_fyi)
-- 👨‍💻 You can contact me on `hello@parseen.dev`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugatti-shir0n&label=Profile%20views&color=0e75b6&style=flat" alt="bugatti-shir0n" /> </p>
 
-<table>
-<th>Databases</th>
-<th/>
-<th/>
-<th>Frameworks & Tools</th>
-<th/>
-<th/>
-<tr>
-  <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="postgres" />
-      <br>PostgreSQL
-    </td>
-    <td/>
-    <td/>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" alt="react" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://redwoodjs.com/images/diecut.svg" height="48" alt="redwood" />
-      <br>Redwood
-    </td>
-    <td align="center" width="96">
-      <img src="https://nextjs.org/static/favicon/android-chrome-512x512.png" height="48" alt="laravel" />
-      <br>Nextjs
-    </td>
- </tr>
- <tr>
- <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
- </td>
- <td/>
- <td/>
- <td align="center" width="96">
-      <img src="https://tailwindcss.com/favicons/android-chrome-256x256.png?v=3" height="48" alt="tailwind" />
-      <br>TailwindCss
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/expressjs/expressjs.com/raw/gh-pages/images/favicon.png" width="48" height="48" alt="expressjs" />
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
-      <br>Webpack
-    </td>
- </tr>
- <tr>
- <td align="center" width="96">
-      <img src="https://redis.io/images/favicons/android-chrome-192x192.png" width="48" height="48" alt="firebase" />
-      <br>Redis
-    </td>
-    <td/>
-    <td/>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td>
- </tr>
-</table>
+<p align="left"> <a href="https://twitter.com/parseen254" target="blank"><img src="https://img.shields.io/twitter/follow/parseen254?logo=twitter&style=for-the-badge" alt="parseen254" /></a> </p>
 
+- 🔭 I’m currently working on creating content for web3 security, **(check out my twiiter)**
+
+- 🌱 I’m currently learning **blockchain security and auditing**
+
+- 👯 I’m looking to  **collaborate on app development**
+
+- 🤝 I’m looking for help with **ghidra slither and fuzzing for smart contracts** any resources will be of help.
+
+- 📫 Reach me at **hello@parseen.dev**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parseen254&show_icons=true&locale=en" alt="parseen254" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parseen254&show_icons=true&locale=en&layout=compact" alt="parseen254" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parseen254&" alt="parseen254" /></p>
