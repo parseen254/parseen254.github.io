@@ -15,10 +15,7 @@
 
 - 📫 Reach me at **hello@parseen.dev**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parseen254&show_icons=true&locale=en" alt="parseen254" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parseen254&show_icons=true&locale=en" alt="parseen254" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parseen254&show_icons=true&locale=en&layout=compact" alt="parseen254" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parseen254&" alt="parseen254" /></p>
