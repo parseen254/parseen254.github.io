@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm David Parseen</h1>
 <h3 align="center">A  senior software engineer from Kenya</h3>
-<img align="right" alt="Coding" width="300" src="https://parseen.dev/image.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugatti-shir0n&label=Profile%20views&color=0e75b6&style=flat" alt="bugatti-shir0n" /> </p>
 
