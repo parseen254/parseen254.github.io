@@ -33,7 +33,8 @@ const config = {
         '/blog/category/page/*',
         '/blog/page/',
         '/blog/page/*',
-      ]
+		],
+		handleHttpError: 'warn'
 		},
 	paths: {
 			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
