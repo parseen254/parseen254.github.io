@@ -1,7 +1,7 @@
-import adapter from '@sveltejs/adapter-static'
-import { mdsvex } from 'mdsvex'
-import rehypeAutolinkHeadings from 'rehype-autolink-headings'
-import rehypeSlug from 'rehype-slug'
+import adapter from '@sveltejs/adapter-static';
+import { mdsvex } from 'mdsvex';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeSlug from 'rehype-slug';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -14,31 +14,29 @@ const config = {
 			extensions: ['.md'],
 
 			// Adds IDs to headings, and anchor links to those IDs. Note: must stay in this order to work.
-			rehypePlugins: [
-				rehypeSlug,
-				rehypeAutolinkHeadings,
-			],
-		}),
+			rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
+		})
 	],
 
 	kit: {
-	adapter: adapter(),
-    prerender: {
-      entries: [
-        '*',
-        '/api/posts/page/*',
-        '/blog/category/*/page/',
-        '/blog/category/*/page/*',
-        '/blog/category/page/',
-        '/blog/category/page/*',
-        '/blog/page/',
-        '/blog/page/*',
-		],
-		handleHttpError: 'warn'
+		adapter: adapter(),
+		prerender: {
+			entries: [
+				'*',
+				'/api/posts/page/*',
+				'/blog/category/*/page/',
+				'/blog/category/*/page/*',
+				'/blog/category/page/',
+				'/blog/category/page/*',
+				'/blog/page/',
+				'/blog/page/*'
+			],
+			handleHttpError: 'warn'
 		},
-	paths: {
-		base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-		relative: false
+		paths: {
+			assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+			relative: false
 		}
 	}
 };
