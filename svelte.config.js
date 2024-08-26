@@ -33,13 +33,13 @@ const config = {
 			],
 			handleHttpError: 'warn'
 		},
-		paths: {
-			assets: process.argv.includes('dev')
-				? ''
-				: `https:/${process.env.BASE_PATH}.github.io/${process.env.BASE_PATH}`,
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-			relative: false
-		}
+		// paths: {
+		// 	assets: process.argv.includes('dev')
+		// 		? ''
+		// 		: `https:/${process.env.BASE_PATH}.github.io/${process.env.BASE_PATH}`,
+		// 	base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+		// 	relative: false
+		// }
 	}
 };
 
