@@ -22,7 +22,7 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter(),
+	adapter: adapter(),
     prerender: {
       entries: [
         '*',
@@ -34,7 +34,10 @@ const config = {
         '/blog/page/',
         '/blog/page/*',
       ]
-    }
+		},
+	paths: {
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		}
 	}
 };
 
