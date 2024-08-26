@@ -34,7 +34,7 @@ const config = {
 			handleHttpError: 'warn'
 		},
 		paths: {
-			assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+			assets: process.argv.includes('dev') ? '' : `https://${process.env.BASE_PATH}`,
 			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
 			relative: false
 		}
