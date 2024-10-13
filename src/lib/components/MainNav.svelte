@@ -16,6 +16,15 @@
 			Home
 		</a>
 		<a
+			href="/blog"
+			class={cn(
+				'hover:text-foreground/80 transition-colors',
+				$page.url.pathname.startsWith('/docs/components') ? 'text-foreground' : 'text-foreground/60'
+			)}
+		>
+			Blog
+		</a>
+		<a
 			href="/about"
 			class={cn(
 				'hover:text-foreground/80 transition-colors',
