@@ -1,27 +1,27 @@
 <script>
-	export let posts = []
+	import { cn } from '$lib/utils.js';
+	export let posts = [];
 </script>
 
-
-<ul class="posts-list">
+<ul class="flex flex-row flex-wrap gap-6">
 	{#each posts as post}
-		<li>
+		<li class="rounded-md">
 			<article>
 				<a href="/blog/{post.slug}">
 					<img
-					src={post.coverImage}
-					alt=""
-					width={post.coverWidth}
-					height={post.coverHeight}
-					style="ratio: {post.coverWidth} / {post.coverHeight}"
+						class={cn(
+							'max-w-[250px] mb-4 object-cover transition-all hover:scale-105',
+							'aspect-[3/4]'
+						)}
+						src={post.coverImage}
+						alt={post.title}
 					/>
-					<h2>
+					<h4 class="max-w-[250px] font-bold">
 						{post.title}
-					</h2>
+					</h4>
+					<p class="max-w-[250px]">{post.excerpt}</p>
 				</a>
 			</article>
-
-			<p>{post.excerpt}</p>
 		</li>
 	{/each}
 </ul>

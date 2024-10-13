@@ -1,7 +1,7 @@
 <!-- This is the global layout file; it "wraps" every page on the site. (Or more accurately: is the parent component to every page component on the site.) -->
 <script>
-	import "../app.css";
-	import { ModeWatcher } from "mode-watcher";
+	import '../app.css';
+	import { ModeWatcher } from 'mode-watcher';
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import { currentPage, isMenuOpen } from '../lib/assets/js/store.js';
@@ -40,7 +40,7 @@
 	<link rel="stylesheet" href="/css/fonts.css" />
 	<link rel="stylesheet" href="/css/typography.css" />
 	<link rel="stylesheet" href="/css/layout.css" />
-	<link rel="stylesheet" href="/css/components.css" />
+	<!-- <link rel="stylesheet" href="/css/components.css" /> -->
 	<!-- <link rel="stylesheet" href="/css/header-and-footer.css" /> -->
 	<link rel="stylesheet" href="/css/forms.css" />
 	<link rel="stylesheet" href="/css/animation.css" />
@@ -55,13 +55,16 @@
 	/>
 </svelte:head>
 
-<div class="layout bg-slate-100 dark:bg-transparent" class:open={$isMenuOpen}>
+<div class="bg-slate-100 dark:bg-transparent" class:open={$isMenuOpen}>
 	<Header />
-	<ModeWatcher/>
-	{#key data.path}
-		<main id="main" tabindex="-1" in:fade|global={transitionIn} out:fade|global={transitionOut}>
-			<slot />
-		</main>
-	{/key}
+	<ModeWatcher />
+	<main
+		class="min-w-full min-h-[100vh] px-8"
+		tabindex="-1"
+		in:fade|global={transitionIn}
+		out:fade|global={transitionOut}
+	>
+		<slot />
+	</main>
 	<Footer />
 </div>
