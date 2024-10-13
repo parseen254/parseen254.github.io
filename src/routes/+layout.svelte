@@ -1,5 +1,7 @@
 <!-- This is the global layout file; it "wraps" every page on the site. (Or more accurately: is the parent component to every page component on the site.) -->
 <script>
+	import "../app.css";
+	import { ModeWatcher } from "mode-watcher";
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import { currentPage, isMenuOpen } from '../lib/assets/js/store.js';
@@ -39,7 +41,7 @@
 	<link rel="stylesheet" href="/css/typography.css" />
 	<link rel="stylesheet" href="/css/layout.css" />
 	<link rel="stylesheet" href="/css/components.css" />
-	<link rel="stylesheet" href="/css/header-and-footer.css" />
+	<!-- <link rel="stylesheet" href="/css/header-and-footer.css" /> -->
 	<link rel="stylesheet" href="/css/forms.css" />
 	<link rel="stylesheet" href="/css/animation.css" />
 	<link rel="stylesheet" href="/css/utilities.css" />
@@ -53,12 +55,9 @@
 	/>
 </svelte:head>
 
-<!--
-	The below markup is used on every page in the site. The <slot> is where the page's
-	actual contents will show up.
--->
-<div class="layout" class:open={$isMenuOpen}>
+<div class="layout bg-slate-100 dark:bg-transparent" class:open={$isMenuOpen}>
 	<Header />
+	<ModeWatcher/>
 	{#key data.path}
 		<main id="main" tabindex="-1" in:fade|global={transitionIn} out:fade|global={transitionOut}>
 			<slot />
